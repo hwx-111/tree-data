@@ -1,0 +1,1110 @@
+[
+  {
+    "name": "Factors",
+    "children": [
+      {
+        "name": "Topographical Factors",
+        "children": [
+          {
+            "name": "Topography",
+            "children": []
+          },
+          {
+            "name": "Elevation",
+            "children": []
+          },
+          {
+            "name": "Aspect",
+            "children": []
+          },
+          {
+            "name": "Curvature",
+            "children": [
+              {
+                "name": "Plan Curvature",
+                "children": []
+              },
+              {
+                "name": "Profile Curvature",
+                "children": []
+              },
+              {
+                "name": "Terrain Surface Convexity",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Slope",
+            "children": [
+              {
+                "name": "Slope Unit Area",
+                "children": []
+              },
+              {
+                "name": "Slope Height",
+                "children": []
+              },
+              {
+                "name": "Slope Length",
+                "children": []
+              },
+              {
+                "name": "Slope Radiation",
+                "children": []
+              },
+              {
+                "name": "Slope Position",
+                "children": []
+              },
+              {
+                "name": "Slope Structure",
+                "children": []
+              },
+              {
+                "name": "Slope Morphology",
+                "children": []
+              },
+              {
+                "name": "Downslope",
+                "children": []
+              },
+              {
+                "name": "Slope-Angle",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Topographic Position",
+            "children": [
+              {
+                "name": "RTP",
+                "children": []
+              },
+              {
+                "name": "TPI",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Terrain Ruggedness",
+            "children": [
+              {
+                "name": "TRI",
+                "children": []
+              },
+              {
+                "name": "TST",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Topographic Wetness",
+            "children": [
+              {
+                "name": "TWI",
+                "children": []
+              },
+              {
+                "name": "Convergence Index",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Wind Erosion",
+            "children": []
+          },
+          {
+            "name": "Curvature",
+            "children": [
+              {
+                "name": "Plan Curvature",
+                "children": []
+              },
+              {
+                "name": "Profile Curvature",
+                "children": []
+              },
+              {
+                "name": "Terrain Surface Convexity",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Slope",
+            "children": [
+              {
+                "name": "Slope Unit Area",
+                "children": []
+              },
+              {
+                "name": "Slope Height",
+                "children": []
+              },
+              {
+                "name": "Slope Length",
+                "children": []
+              },
+              {
+                "name": "Slope Radiation",
+                "children": []
+              },
+              {
+                "name": "Slope Position",
+                "children": []
+              },
+              {
+                "name": "Slope Structure",
+                "children": []
+              },
+              {
+                "name": "Slope Morphology",
+                "children": []
+              },
+              {
+                "name": "Downslope",
+                "children": []
+              },
+              {
+                "name": "Slope-Angle",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Geomorphological Factors",
+        "children": [
+          {
+            "name": "Geomorphology",
+            "children": []
+          },
+          {
+            "name": "Geomorphic Types",
+            "children": [
+              {
+                "name": "Geomorphic Type",
+                "children": []
+              },
+              {
+                "name": "Valley",
+                "children": []
+              },
+              {
+                "name": "Plain",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Mean Cliff Height",
+            "children": []
+          },
+          {
+            "name": "Morphometric Protection Index",
+            "children": []
+          },
+          {
+            "name": "Surface Cutting Depth",
+            "children": []
+          },
+          {
+            "name": "Terrain Relief",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Geological Factors",
+        "children": [
+          {
+            "name": "Geologic",
+            "children": []
+          },
+          {
+            "name": "Rock",
+            "children": [
+              {
+                "name": "Lithology",
+                "children": []
+              },
+              {
+                "name": "Rock Strength",
+                "children": []
+              },
+              {
+                "name": "Rock Types",
+                "children": []
+              },
+              {
+                "name": "Rock Structure",
+                "children": []
+              },
+              {
+                "name": "Rock Infiltration",
+                "children": []
+              },
+              {
+                "name": "Rock Weathering",
+                "children": []
+              },
+              {
+                "name": "Exposure",
+                "children": []
+              },
+              {
+                "name": "Active Layer Thickness",
+                "children": []
+              },
+              {
+                "name": "Dense Crack Index",
+                "children": []
+              },
+              {
+                "name": "Substrate Material",
+                "children": []
+              },
+              {
+                "name": "Angle Of Internal Friction",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Structural Features",
+            "children": [
+              {
+                "name": "Fault",
+                "children": []
+              },
+              {
+                "name": "Tectonic Movement",
+                "children": []
+              },
+              {
+                "name": "Distance From Anticline Axis",
+                "children": []
+              },
+              {
+                "name": "Distance From Syncline Axis",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Seismic",
+            "children": [
+              {
+                "name": "Seismic Intensity",
+                "children": []
+              },
+              {
+                "name": "Distance To Epicenter",
+                "children": []
+              },
+              {
+                "name": "PGA",
+                "children": []
+              },
+              {
+                "name": "CMV",
+                "children": []
+              },
+              {
+                "name": "Volume Of Coseismic Deposits",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Geological Boundaries",
+            "children": [
+              {
+                "name": "Distance From The Nearest Geologic Boundary",
+                "children": []
+              },
+              {
+                "name": "Stratigraphic Unit",
+                "children": []
+              },
+              {
+                "name": "Geological Age",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Geotechnical Engineering",
+            "children": []
+          },
+          {
+            "name": "Volcanic",
+            "children": []
+          },
+          {
+            "name": "Seismic",
+            "children": [
+              {
+                "name": "Seismic Intensity",
+                "children": []
+              },
+              {
+                "name": "Distance To Epicenter",
+                "children": []
+              },
+              {
+                "name": "PGA",
+                "children": []
+              },
+              {
+                "name": "CMV",
+                "children": []
+              },
+              {
+                "name": "Volume Of Coseismic Deposits",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Geological Boundaries",
+            "children": [
+              {
+                "name": "Distance From The Nearest Geologic Boundary",
+                "children": []
+              },
+              {
+                "name": "Stratigraphic Unit",
+                "children": []
+              },
+              {
+                "name": "Geological Age",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Hydrological Factors",
+        "children": [
+          {
+            "name": "Hydrological",
+            "children": []
+          },
+          {
+            "name": "Runoff",
+            "children": [
+              {
+                "name": "Curve Number",
+                "children": []
+              },
+              {
+                "name": "SPI",
+                "children": []
+              },
+              {
+                "name": "STI",
+                "children": []
+              },
+              {
+                "name": "Cumulative Runoff",
+                "children": []
+              },
+              {
+                "name": "Flow Width",
+                "children": []
+              },
+              {
+                "name": "Flow Path Length",
+                "children": []
+              },
+              {
+                "name": "Flow Accumulation",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Basin",
+            "children": [
+              {
+                "name": "Hypsometric Integral",
+                "children": []
+              },
+              {
+                "name": "Basin Area",
+                "children": []
+              },
+              {
+                "name": "Circularity Ration",
+                "children": []
+              },
+              {
+                "name": "Basin Relief",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Hydrogeology",
+            "children": [
+              {
+                "name": "Hydrolithology",
+                "children": []
+              },
+              {
+                "name": "Pore Water Pressure Coefficient",
+                "children": []
+              },
+              {
+                "name": "Filtration Coefficient",
+                "children": []
+              },
+              {
+                "name": "Permeability Rating",
+                "children": []
+              },
+              {
+                "name": "Hydrogeological Units",
+                "children": []
+              },
+              {
+                "name": "Groundwater",
+                "children": []
+              },
+              {
+                "name": "Spring Kernel Density",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Hydromorphology",
+            "children": [
+              {
+                "name": "Channel Steepness Index",
+                "children": []
+              },
+              {
+                "name": "Channel Island",
+                "children": []
+              },
+              {
+                "name": "Water Emergence In The Hillside Profile",
+                "children": []
+              },
+              {
+                "name": "Watershed Morphology Characters",
+                "children": []
+              },
+              {
+                "name": "Gully Density",
+                "children": []
+              },
+              {
+                "name": "Height Above The Nearest Drainage",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "River",
+            "children": [
+              {
+                "name": "River Density",
+                "children": []
+              },
+              {
+                "name": "Distance To River",
+                "children": []
+              },
+              {
+                "name": "River Erosion",
+                "children": []
+              },
+              {
+                "name": "Curvature Of The Main Stream",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Aquifer",
+            "children": [
+              {
+                "name": "Aquifer Recharge",
+                "children": []
+              },
+              {
+                "name": "Aquifer Thickness",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Glaciers And Snow Cover",
+            "children": [
+              {
+                "name": "Frozen Depth",
+                "children": []
+              },
+              {
+                "name": "Volumetric Ice Content",
+                "children": []
+              },
+              {
+                "name": "Glacial Terrain",
+                "children": []
+              },
+              {
+                "name": "Snow Cover",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Flood",
+            "children": [
+              {
+                "name": "Active Flood Plain",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Agricultural Hydrology",
+            "children": [
+              {
+                "name": "Field Capacity",
+                "children": []
+              },
+              {
+                "name": "RA",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Hydraulic Engineering",
+            "children": [
+              {
+                "name": "Dam",
+                "children": []
+              },
+              {
+                "name": "Water-Well Density",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Wave",
+            "children": []
+          },
+          {
+            "name": "NDWI",
+            "children": []
+          },
+          {
+            "name": "River",
+            "children": [
+              {
+                "name": "River Density",
+                "children": []
+              },
+              {
+                "name": "Distance To River",
+                "children": []
+              },
+              {
+                "name": "River Erosion",
+                "children": []
+              },
+              {
+                "name": "Curvature Of The Main Stream",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Flood",
+            "children": [
+              {
+                "name": "Active Flood Plain",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Meteorological Factors",
+        "children": [
+          {
+            "name": "Climate",
+            "children": [
+              {
+                "name": "Dry",
+                "children": []
+              },
+              {
+                "name": "Solar Radiation",
+                "children": []
+              },
+              {
+                "name": "Diurnal Anisotropic Heat",
+                "children": []
+              },
+              {
+                "name": "Temperature",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Precipitation",
+            "children": [
+              {
+                "name": "Rainfall",
+                "children": []
+              },
+              {
+                "name": "Rainfall Duration",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Climate",
+            "children": [
+              {
+                "name": "Dry",
+                "children": []
+              },
+              {
+                "name": "Solar Radiation",
+                "children": []
+              },
+              {
+                "name": "Diurnal Anisotropic Heat",
+                "children": []
+              },
+              {
+                "name": "Temperature",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Soil Factors",
+        "children": [
+          {
+            "name": "Soil",
+            "children": []
+          },
+          {
+            "name": "Soil Texture",
+            "children": [
+              {
+                "name": "Soil Type",
+                "children": []
+              },
+              {
+                "name": "Grain-Size Of Soils",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Soil Moisture",
+            "children": [
+              {
+                "name": "Degree Of Saturation",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Soil Structure",
+            "children": [
+              {
+                "name": "Soil Skeleton",
+                "children": []
+              },
+              {
+                "name": "Soil Capacity",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Soil Particle Composition",
+            "children": [
+              {
+                "name": "Clay",
+                "children": []
+              },
+              {
+                "name": "Silt Content",
+                "children": []
+              },
+              {
+                "name": "Sand Content",
+                "children": []
+              },
+              {
+                "name": "Fine Soil Content",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Soil Depth",
+            "children": []
+          },
+          {
+            "name": "Soil Erosion Modulus",
+            "children": []
+          },
+          {
+            "name": "Soil Resistivity",
+            "children": []
+          },
+          {
+            "name": "Soil Texture",
+            "children": [
+              {
+                "name": "Soil Type",
+                "children": []
+              },
+              {
+                "name": "Grain-Size Of Soils",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Soil Moisture",
+            "children": [
+              {
+                "name": "Degree Of Saturation",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Vegetation Factors",
+        "children": [
+          {
+            "name": "Vegetation Coverage",
+            "children": [
+              {
+                "name": "NDVI",
+                "children": []
+              },
+              {
+                "name": "Vegetation Cover",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Vegetation Density",
+            "children": []
+          },
+          {
+            "name": "Vegetation Types",
+            "children": [
+              {
+                "name": "Grassland",
+                "children": []
+              },
+              {
+                "name": "Forested Land",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Wood",
+            "children": [
+              {
+                "name": "Wood Age",
+                "children": []
+              },
+              {
+                "name": "Wood Diameter",
+                "children": []
+              },
+              {
+                "name": "Wood Type",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Anthropogenic Factors",
+        "children": [
+          {
+            "name": "Building",
+            "children": [
+              {
+                "name": "Construction Line",
+                "children": []
+              },
+              {
+                "name": "Urbanization Rate Of The County",
+                "children": []
+              },
+              {
+                "name": "Ndbi",
+                "children": []
+              },
+              {
+                "name": "Distance From Building",
+                "children": []
+              },
+              {
+                "name": "Industrial Land",
+                "children": []
+              },
+              {
+                "name": "Residential Land",
+                "children": []
+              },
+              {
+                "name": "Distance From County Center",
+                "children": []
+              },
+              {
+                "name": "POI",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Agriculture",
+            "children": [
+              {
+                "name": "Cultivated Land",
+                "children": []
+              },
+              {
+                "name": "Per Capita Cultivated Land Area",
+                "children": []
+              },
+              {
+                "name": "Agricultural Terracing",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Income",
+            "children": []
+          },
+          {
+            "name": "Cultural Heritage",
+            "children": []
+          },
+          {
+            "name": "Occupations",
+            "children": []
+          },
+          {
+            "name": "Human Modification",
+            "children": [
+              {
+                "name": "Road",
+                "children": [
+                  {
+                    "name": "Distance To Road",
+                    "children": []
+                  },
+                  {
+                    "name": "Road Density",
+                    "children": []
+                  },
+                  {
+                    "name": "Road Profile",
+                    "children": []
+                  },
+                  {
+                    "name": "Road Construction",
+                    "children": []
+                  },
+                  {
+                    "name": "Distance From Railway",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "Mining",
+                "children": [
+                  {
+                    "name": "Distance From Mining Site",
+                    "children": []
+                  },
+                  {
+                    "name": "Mine Kernel Density",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "Population",
+                "children": [
+                  {
+                    "name": "Distance To Population Gathering Point",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "Road",
+                "children": [
+                  {
+                    "name": "Distance To Road",
+                    "children": []
+                  },
+                  {
+                    "name": "Road Density",
+                    "children": []
+                  },
+                  {
+                    "name": "Road Profile",
+                    "children": []
+                  },
+                  {
+                    "name": "Road Construction",
+                    "children": []
+                  },
+                  {
+                    "name": "Distance From Railway",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "Mining",
+                "children": [
+                  {
+                    "name": "Distance From Mining Site",
+                    "children": []
+                  },
+                  {
+                    "name": "Mine Kernel Density",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "Population",
+                "children": [
+                  {
+                    "name": "Distance To Population Gathering Point",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "Anthropogenic Environment",
+                "children": []
+              },
+              {
+                "name": "GHM",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Land Use",
+            "children": []
+          },
+          {
+            "name": "Fire",
+            "children": []
+          },
+          {
+            "name": "Fitness Ratio",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Landslide Factors",
+        "children": [
+          {
+            "name": "Landslide",
+            "children": []
+          },
+          {
+            "name": "Landslide Morphology",
+            "children": []
+          },
+          {
+            "name": "Landslide Evolution",
+            "children": [
+              {
+                "name": "Deformation",
+                "children": []
+              },
+              {
+                "name": "Landslide Evolution State",
+                "children": []
+              },
+              {
+                "name": "Displacement",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Landslide Risk Assessment",
+            "children": [
+              {
+                "name": "Landslide Sensitivity",
+                "children": []
+              },
+              {
+                "name": "Vector Ruggedness Measure",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Landslide Distribution",
+            "children": [
+              {
+                "name": "Point Density Of Landslides",
+                "children": []
+              },
+              {
+                "name": "Ratio Of Landslides",
+                "children": []
+              },
+              {
+                "name": "Surface Area",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
