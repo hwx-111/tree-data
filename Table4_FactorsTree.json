@@ -1,0 +1,224 @@
+[
+    {
+        "name": "Anthropogenicic",
+        "children": [
+            {
+                "name": "Construction",
+                "children": [
+                    {
+                        "name": "Distance To Road"
+                    },
+                    {
+                        "name": "Land Use"
+                    },
+                    {
+                        "name": "NDBI"
+                    },
+                    {
+                        "name": "Road Density"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Geology",
+        "children": [
+            {
+                "name": "Rock Characteristics",
+                "children": [
+                    {
+                        "name": "Lithology"
+                    }
+                ]
+            },
+            {
+                "name": "Rock Types",
+                "children": [
+                    {
+                        "name": "Rock Types"
+                    }
+                ]
+            },
+            {
+                "name": "Seismic",
+                "children": [
+                    {
+                        "name": "Distance To Epicenter"
+                    },
+                    {
+                        "name": "PGA"
+                    },
+                    {
+                        "name": "Seismic Intensity"
+                    }
+                ]
+            },
+            {
+                "name": "Stratigraphy",
+                "children": [
+                    {
+                        "name": "Geological Group"
+                    }
+                ]
+            },
+            {
+                "name": "Tectonic Line",
+                "children": [
+                    {
+                        "name": "Distance From Seismogenic Fault"
+                    },
+                    {
+                        "name": "Distance To Fault"
+                    },
+                    {
+                        "name": "Distance To Lineament"
+                    },
+                    {
+                        "name": "Fault Density"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Geomorphological",
+        "children": [
+            {
+                "name": "Geomorphic Types",
+                "children": [
+                    {
+                        "name": "Geomorphic Type"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Hydrology",
+        "children": [
+            {
+                "name": "Dem",
+                "children": [
+                    {
+                        "name": "Stream Power Index"
+                    }
+                ]
+            },
+            {
+                "name": "Hydrogeological",
+                "children": [
+                    {
+                        "name": "Sediment Transport Index"
+                    }
+                ]
+            },
+            {
+                "name": "Runoff",
+                "children": [
+                    {
+                        "name": "Distance To River"
+                    },
+                    {
+                        "name": "Drainage Density"
+                    }
+                ]
+            },
+            {
+                "name": "Water Indices",
+                "children": [
+                    {
+                        "name": "NDWI"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Meteorological",
+        "children": [
+            {
+                "name": "Precipitation",
+                "children": [
+                    {
+                        "name": "Rainfall"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Soil",
+        "children": [
+            {
+                "name": "Soil Composition",
+                "children": [
+                    {
+                        "name": "Soil Type"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Topography",
+        "children": [
+            {
+                "name": "Dem",
+                "children": [
+                    {
+                        "name": "Aspect"
+                    },
+                    {
+                        "name": "Elevation"
+                    },
+                    {
+                        "name": "Plan Curvature"
+                    },
+                    {
+                        "name": "Profile Curvature"
+                    },
+                    {
+                        "name": "Relative Relief"
+                    },
+                    {
+                        "name": "Slope"
+                    },
+                    {
+                        "name": "Terrain Roughness Index"
+                    },
+                    {
+                        "name": "Topographic Position Index"
+                    },
+                    {
+                        "name": "Topographic Wetness Index"
+                    },
+                    {
+                        "name": "Total Curvature"
+                    }
+                ]
+            },
+            {
+                "name": "Slope Unit",
+                "children": [
+                    {
+                        "name": "Slope Length"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Vegetation",
+        "children": [
+            {
+                "name": "Vegetation Coverage",
+                "children": [
+                    {
+                        "name": "NDVI"
+                    }
+                ]
+            }
+        ]
+    }
+]
